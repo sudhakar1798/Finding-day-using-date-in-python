@@ -1,0 +1,4 @@
+Output
+
+Enter date  17/05/1998
+Sunday
